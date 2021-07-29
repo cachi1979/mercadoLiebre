@@ -1,0 +1,14 @@
+{
+  "name": "clase-11-html",
+  "version": "1.0.0",
+  "description": "Proyecto digital house de HTML prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pablo cacciola",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
