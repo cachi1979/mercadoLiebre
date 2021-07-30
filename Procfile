@@ -1,1 +1,1 @@
-web:noderutaAlArchivoPrincipal.js
+web: node app.js
